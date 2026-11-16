@@ -20,7 +20,7 @@ def load_config() -> dict[str, object]:
     image_limit = 8 * 1024 * 1024
     origins = os.environ.get(
         "CORS_ORIGINS",
-        "http://localhost:5173,http://127.0.0.1:5173",
+        "https://brian-kiprotich.netlify.app/",
     )
 
     return {
