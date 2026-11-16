@@ -5,7 +5,7 @@ DEFAULT_CONTENT = {
         "name": "Brian Kiprotich",
         "headline": "Building useful things with code and spatial data.",
         "role": "Geospatial Engineer | Software Developer | Energy Utility Analyst | Spatial Data Science",
-        "about": "Geospatial Engineer, Full-Stack Software Developer and Applied Data Science practitioner with a multidisciplinary background in geospatial engineering, software development, spatial data management and data analytics. Holds a BSc in Geospatial Engineering from the University of Nairobi, a Full-Stack Software Engineering certification from Moringa School and an Applied Data Science certification from WorldQuant University. Experienced in GIS programming, spatial database management and geospatial workflow automation. Practical experience includes supporting electricity infrastructure mapping and Utility Network data migration at Kenya Power, developing GIS dashboards and field data collection solutions, GIS mapping for carbon credit project with Farmlife Health Services ltd.",
+        "about": "Geospatial Engineer, Full-Stack Software Developer and Applied Data Science practitioner with a multidisciplinary background in geospatial engineering, software development, spatial data management and data analytics. Holds a BSc in Geospatial Engineering from the University of Nairobi, a Full-Stack Software Engineering certification from Moringa School and an Applied Data Science certification from WorldQuant University. Experienced in GIS programming, spatial database management and geospatial workflow automation. Practical experience includes supporting electricity infrastructure mapping and Utility Network data migration at Kenya Power & Lighting Company Ltd., developing GIS dashboards and field data collection solutions, GIS mapping for carbon credit project with Farmlife Health Services.",
         "lead": "Geospatial Engineer, Full-Stack Software Developer and Applied Data Science practitioner.",
         "location": "Nairobi, Kenya",
         "email": "mkbrian100@gmail.com",
@@ -134,6 +134,7 @@ DEFAULT_CONTENT = {
         {
             "id": "energy-utility-analytics-intern",
             "period": "2025–2026",
+            "company": "Kenya Power & Lighting Company Ltd.",
             "role": "Energy Utility Analytics Intern",
             "description": "Developed Python ETL workflows to transform Facilities Database (FDB) records into datasets structured for migration to ArcGIS Utility Network. Built ArcGIS Online dashboards and customized Field Maps templates to support asset-data coverage monitoring and mobile field-data collection. Performed field verification, digitization, and spatial analysis across electricity distribution networks, including service cables and meter boxes. Collected engineering survey data using RTK GNSS and Total Station for substation topographic surveys, setting out, levelling, and earthwork assessment.",
             "skills": [
@@ -146,6 +147,7 @@ DEFAULT_CONTENT = {
         {
             "id": "gis-consultant-farmlife-health-services",
             "period": "Part-time",
+            "company": "Farmlife Health Services",
             "role": "GIS Consultant",
             "description": "Manage spatial project information and support geospatial documentation and data workflows for land-restoration and carbon-credit projects. Use TerraMatch to support the management and organization of geospatial project information and contribute to spatial data workflows for environmental restoration initiatives.",
             "skills": [

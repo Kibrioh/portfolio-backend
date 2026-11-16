@@ -7,7 +7,7 @@ import secrets
 
 RESOURCE_FIELDS = {
     "projects": ("title", "category", "description", "stack", "image", "github", "demo", "featured"),
-    "experience": ("role", "period", "description", "skills"),
+    "experience": ("role", "period", "company", "description", "skills"),
     "education": ("degree", "institution", "period", "description"),
     "certifications": ("title", "issuer", "date", "credentialUrl", "description"),
     "skills": ("name", "category"),
