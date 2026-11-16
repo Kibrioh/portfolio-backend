@@ -119,28 +119,6 @@ DEFAULT_CONTENT = {
                 "featured": False
             },
         {
-            "id": "gis-flood-evacuation-prototype",
-            "title": "GIS Flood Early Warning & Evacuation Mapper (Prototype)",
-            "category": "GIS Software Development",
-            "description": "Prototype GIS application for mapping forecast flood zones against settlements, roads, public facilities, and evacuation shelters. Designed for scenario review and response planning, not as a live warning service.",
-            "stack": ["Python", "PostGIS", "GeoPandas", "Leaflet"],
-            "image": "",
-            "github": "",
-            "demo": "",
-            "featured": False,
-        },
-        {
-            "id": "urban-flood-susceptibility-prototype",
-            "title": "Urban Flood Susceptibility Analysis (Prototype)",
-            "category": "Spatial Data Science",
-            "description": "Spatial analysis concept combining rainfall, elevation, drainage, land cover, and historical flood records into an area-level susceptibility index. Uses synthetic sample data for demonstration and is not an operational forecast.",
-            "stack": ["Python", "GeoPandas", "Rasterio", "scikit-learn"],
-            "image": "",
-            "github": "",
-            "demo": "",
-            "featured": False,
-        },
-        {
             "id": "geospatial-portfolio-web-app",
             "title": "Geospatial Portfolio Web Application",
             "category": "Web Application Development",
@@ -167,7 +145,7 @@ DEFAULT_CONTENT = {
         },
         {
             "id": "gis-consultant-farmlife-health-services",
-            "period": "Part-time — dates not specified in CV",
+            "period": "Part-time",
             "role": "GIS Consultant",
             "description": "Manage spatial project information and support geospatial documentation and data workflows for land-restoration and carbon-credit projects. Use TerraMatch to support the management and organization of geospatial project information and contribute to spatial data workflows for environmental restoration initiatives.",
             "skills": [
@@ -178,6 +156,31 @@ DEFAULT_CONTENT = {
         },
     ],
     "education": [],
-    "certifications": [],
+    "certifications": [
+        {
+            "id": "esri-mooc-spatial-data-science",
+            "title": "Spatial Data Science",
+            "issuer": "ESRI MOOC",
+            "date": "",
+            "credentialUrl": "",
+            "description": "",
+        },
+        {
+            "id": "esri-mooc-cartography",
+            "title": "Cartography",
+            "issuer": "ESRI MOOC",
+            "date": "",
+            "credentialUrl": "",
+            "description": "",
+        },
+        {
+            "id": "learncafe-arcgis-utility-network",
+            "title": "ArcGIS Utility Network",
+            "issuer": "Learncafe Online Courses",
+            "date": "",
+            "credentialUrl": "",
+            "description": "",
+        },
+    ],
     "messages": [],
 }
